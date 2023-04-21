@@ -17,6 +17,8 @@ def get_filters():
         (str) day - name of the day of week to filter by, or "all" to apply no day filter
         
         New information #1 in bikeshare.py file.
+        
+        New information #2 in bikeshare.py file.
     """
     print('Welcome! Would you like to see data for Chicago, New York, or Washington?\n')
     # 1 TO DO - check for input validation for city
